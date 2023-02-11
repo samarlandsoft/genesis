@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434462767833",
+    "project_id": "samarland-nft",
+    "storage_bucket": "samarland-nft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434462767833:android:096d49c944c92adffb9cc8",
+        "android_client_info": {
+          "package_name": "com.saltandsatoshi.genesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434462767833-urgm0avlir2qi2m2gol4beia8hqvvois.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqE_v4IcerJRy_5hUTa_iknGI1WJRyBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434462767833-urgm0avlir2qi2m2gol4beia8hqvvois.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
