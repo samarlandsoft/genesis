@@ -51,7 +51,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.saltandsatoshi.genesis"
+        applicationId "com.saltandsatoshi.scanner"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
@@ -82,7 +82,7 @@ android {
         }
     }
 
-    namespace 'com.saltandsatoshi.genesis'
+    namespace 'com.saltandsatoshi.scanner'
 }
 
 flutter {
